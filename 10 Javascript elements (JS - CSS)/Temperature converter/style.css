@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: hsl(184, 75%, 41%);
+}
+
+h1{
+    color: antiquewhite;
+}
+
+form{
+    background-color: hsl(34, 81%, 71%);
+    text-align: center;
+    border-radius: 8px;
+    max-width: 350px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 5px 5px 15px hsl(44, 82%, 63%);
+}
+
+#tempInput{
+    width: 50%;
+    text-align: center;
+    border: 2px solid hsl(44, 82%, 63%);
+    border-radius: 8px;
+    font-size: 2em;
+    margin-bottom: 15px;
+}
+
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+button{
+    margin-top: 15px;
+    background-color: hsl(41, 88%, 61%);
+    font-size: 1.5em;
+    color: beige;
+    border-radius: 8px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: hsl(41, 53%, 42%);
+    color: hsl(106, 91%, 57%);
+}
+
+#result{
+    font-size: 2em;
+    font-weight: bold;
+}

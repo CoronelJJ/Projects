@@ -1,0 +1,70 @@
+body{
+    margin: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:hsla(0, 0%, 100%, 0.527);
+}
+
+#calculator{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: hsla(180, 100%, 25%, 0.555);
+    border-radius: 35px;
+    max-width: 500px;
+    overflow: hidden;
+}
+#display{
+    width: 100%;
+    padding: 20px;
+    font-size: 5rem;
+    text-align: left;
+    border: none;
+    color: white;
+    background-color:  hsla(180, 100%, 25%, 0.355);
+}
+#keys{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    padding: 35px;
+}
+button{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border: none;
+    background-color: hsla(180, 25%, 25%, 0.6);
+    color: darkorange;
+    font-size: 4.5em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: hsla(180, 25%, 25%, 0.8); 
+}
+button:active{
+    background-color: hsla(184, 25%, 25%, 0.35);
+}
+
+.operatorBtn{
+    background-color: hsla(118, 94%, 35%, 0.8);
+}
+.operatorBtn:hover{
+    background-color: hsla(118, 94%, 35%, 0.5);
+}
+.operatorBtn:active{
+    background-color: hsla(118, 94%, 35%, 0.35);
+}
+
+.clearBtn{
+    background-color: darkorange;
+    color:  hsla(180, 25%, 25%, 0.6);
+}
+.clearBtn:hover{
+    background-color: hsla(33, 100%, 50%, 0.5);
+}
+.clearBtn:active{
+    background-color: hsla(33, 100%, 50%, 0.8);
+}

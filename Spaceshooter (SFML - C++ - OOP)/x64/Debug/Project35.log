@@ -1,0 +1,349 @@
+﻿  ArmarJuego.cpp
+  Asteroide.cpp
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(39,38): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(39,26): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(66,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(66,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(66,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(66,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(66,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(67,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(67,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(67,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(67,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(67,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,82): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,82): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,82): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,82): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,82): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,68): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,68): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,68): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,68): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,68): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,53): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,53): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,53): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,53): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,53): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,28): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,28): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,28): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,28): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(69,28): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(104,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(104,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(104,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(104,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(104,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(105,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(105,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(105,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(105,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(105,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,83): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,83): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,83): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,83): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,83): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,69): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,69): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,69): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,69): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,69): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,54): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,54): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,54): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,54): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,54): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,29): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,29): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,29): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,29): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Asteroide.cpp(107,29): warning C4244:         ]
+  AtaqueEspecial.cpp
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(88,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(88,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(88,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(88,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(88,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(89,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(89,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(89,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(89,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(89,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,88): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,88): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,88): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,88): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,88): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,74): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,74): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,74): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,74): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,74): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,59): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,59): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,59): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,59): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,59): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,34): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,34): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,34): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,34): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(91,34): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(96,53): warning C4244: '=': conversión de 'T' a 'int'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(96,53): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(96,53): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(96,53): warning C4244:             T=float
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(96,53): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(106,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(106,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(106,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(106,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(106,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(107,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(107,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(107,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(107,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(107,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,88): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,88): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,88): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,88): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,88): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,74): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,74): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,74): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,74): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,74): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,59): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,59): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,59): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,59): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,59): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,34): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,34): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,34): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,34): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(109,34): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(117,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(117,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(117,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(117,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(117,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(118,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(118,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(118,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(118,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(118,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,88): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,88): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,88): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,88): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,88): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,74): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,74): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,74): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,74): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,74): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,59): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,59): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,59): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,59): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,59): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,34): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,34): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,34): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,34): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\AtaqueEspecial.cpp(120,34): warning C4244:         ]
+  Disparo.cpp
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(108,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(108,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(108,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(108,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(108,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(109,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(109,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(109,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(109,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(109,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,82): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,82): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,82): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,82): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,82): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,68): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,68): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,68): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,68): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,68): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,54): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,54): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,54): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,54): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,54): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,28): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,28): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,28): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,28): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Disparo.cpp(112,28): warning C4244:         ]
+  DisparoEnemigo.cpp
+  Enemigo.cpp
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Enemigo.cpp(91,29): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  GameUI.cpp
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\GameUI.cpp(70,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\GameUI.cpp(70,24): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\GameUI.cpp(72,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\GameUI.cpp(72,29): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\GameUI.cpp(75,32): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\GameUI.cpp(75,27): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\GameUI.cpp(86,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\GameUI.cpp(86,26): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  IngresarTexto.cpp
+  JefeFinal.cpp
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\JefeFinal.cpp(239,32): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\JefeFinal.cpp(240,32): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Juego.cpp
+  Jugador.cpp
+  main.cpp
+  Menu.cpp
+  Nave.cpp
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(22,12): warning C4305: '=': truncamiento de 'double' a 'T'
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(22,12): warning C4305:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(22,12): warning C4305:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(22,12): warning C4305:             T=float
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(22,12): warning C4305:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(23,11): warning C4305: '=': truncamiento de 'double' a 'T'
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(23,11): warning C4305:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(23,11): warning C4305:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(23,11): warning C4305:             T=float
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(23,11): warning C4305:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(209,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(209,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(209,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(209,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(209,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(210,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(210,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(210,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(210,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(210,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,73): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,73): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,73): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,73): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,73): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,65): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,65): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,65): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,65): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,65): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,50): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,50): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,50): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,50): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,50): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,32): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,32): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,32): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,32): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(212,32): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(345,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(345,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(345,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(345,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(345,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(346,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(346,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(346,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(346,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(346,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,75): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,75): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,75): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,75): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,75): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,67): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,67): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,67): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,67): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,67): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,52): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,52): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,52): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,52): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,52): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,33): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,33): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,33): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,33): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Nave.cpp(348,33): warning C4244:         ]
+  PickUps.cpp
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\PickUps.cpp(96,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\PickUps.cpp(96,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\PickUps.cpp(96,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\PickUps.cpp(96,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\PickUps.cpp(96,13): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\PickUps.cpp(97,13): warning C4244: 'inicializando': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\PickUps.cpp(97,13): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\PickUps.cpp(97,13): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\PickUps.cpp(97,13): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\PickUps.cpp(97,13): warning C4244:         ]
+  Planeta.cpp
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,80): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,80): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,80): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,80): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,80): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,74): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,74): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,74): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,74): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,74): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,66): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,66): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,66): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,66): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,66): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,56): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,56): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,56): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,56): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(30,56): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(37,47): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(37,47): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(37,47): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(37,47): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(37,47): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(38,55): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(39,50): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(39,50): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(39,50): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(39,50): warning C4244:             T=unsigned int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(39,50): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,80): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,80): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,80): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,80): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,80): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,74): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,74): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,74): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,74): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,74): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,66): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,66): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,66): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,66): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,66): warning C4244:         ]
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,56): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,56): warning C4244:         with
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,56): warning C4244:         [
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,56): warning C4244:             T=int
+C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\Project35\Planeta.cpp(42,56): warning C4244:         ]
+  Sonidos.cpp
+  TablaDePuntuaciones.cpp
+  Generando código...
+  Project35.vcxproj -> C:\Users\Julian\Documents\Programacion\Laboratorio 2\Pruebas\Project35\x64\Debug\Project35.exe

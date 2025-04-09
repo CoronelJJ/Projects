@@ -1,0 +1,131 @@
+/*============================= MENÚ SUPERIOR =============================*/
+#header {
+    background-color: #fff;
+    display: flex;
+    box-shadow: 0px 0px 5px #333;
+    height: 60px;
+    padding: 0px 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.info .nav-user {
+    display: flex;
+    align-items: center;
+}
+
+.info .nav-user li {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.info img {
+    margin-right: 20px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.info img:hover {
+    transform: scale(1.1);
+}
+
+.links .nav-links {
+    display: flex;
+    align-items: center;
+}
+
+.nav-links li {
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.nav-links .boton-links {
+    color: #AE1917;
+    background: #fff;
+    border-radius: 20px;
+    padding: 6px 18px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+    outline: none;
+    border: none;
+    transition: all .2s linear;
+}
+
+.nav-links .boton-links:hover {
+    color: #fff;
+    background: #E52320;
+    transform: scale(1.1);
+}
+
+.nav-user {
+    list-style: none;
+    text-decoration: none;
+}
+
+.nav-links .boton {
+    color: #fff;
+    background: #AE1917;
+    border-radius: 20px;
+    padding: 8px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+    outline: none;
+    border: none;
+    transition: all .2s linear;
+}
+
+.nav-links .boton:hover {
+    background: #E52320;
+    transform: scale(1.1);
+}
+
+/* Estilo para el botón de cerrar sesión */
+.nav-links .btn-cerrar-sesion {
+    color: #fff;
+    background-color: #E52320; 
+    border-radius: 20px;
+    padding: 8px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+    outline: none;
+    border: none;
+    transition: all .2s linear;
+}
+
+.nav-links .btn-cerrar-sesion:hover {
+    background-color: #AE1917; 
+    transform: scale(1.1);
+}
+
+.custom-input {
+      border-color: #ced4da;
+      border-radius: 8px; 
+      padding: 8px 12px; 
+      font-size: 1rem; 
+      width:180px;
+  	  height: 30px; 
+    }
+    .custom-input:hover {
+      border-color: #6c757d; 
+    }
+
+    .custom-input:focus {
+      border-color: #495057; 
+      box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.25); 
+    }
+    
+	.custom-label{
+		color: #333;
+            font-size: 16px;
+            font-weight: bold;
+            display: block;
+            margin-top: 10px;
+            text-align: center;
+	}
