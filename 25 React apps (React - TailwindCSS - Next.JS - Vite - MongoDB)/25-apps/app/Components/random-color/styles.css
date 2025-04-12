@@ -1,0 +1,8 @@
+.random-color-container button{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    background-color: brown;
+    color: white;
+}

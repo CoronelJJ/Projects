@@ -1,0 +1,28 @@
+.more-data-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+  
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    height: 100%;
+    width: 100%;
+}
+
+.product{
+    padding: 20px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.load-button-container{
+    position: relative;
+    bottom: 0.5rem;
+    left: 50vw;
+}

@@ -1,0 +1,29 @@
+
+
+.tic-tac-toe-container::after{
+    clear: both;
+    content: "";
+    display: table;
+  
+}
+
+.tic-tac-toe-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.tile{
+    background-color: paleturquoise;
+    border: 1px solid tomato;
+    cursor: pointer;
+    float: left;
+    font-size: 4rem;
+    height: 100px;
+    padding: 0px;
+    text-align: center;
+    width: 100px;
+    margin-right: -1px;
+    margin-top: -1px;
+}

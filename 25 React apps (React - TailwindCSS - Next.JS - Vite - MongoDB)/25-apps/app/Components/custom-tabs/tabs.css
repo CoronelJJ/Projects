@@ -1,0 +1,33 @@
+.tabWrapper{
+    padding: 8px;
+}
+
+.tabHeading{
+     display: flex;
+     justify-content: center;
+     margin-bottom: 20px;
+}
+.tab-item{
+    display: inline-flex;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 15px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    background-color: blueviolet;
+}
+
+.tab-item.active{
+    border-color: black;
+    background-color: cadetblue;
+    color: white;
+}
+
+.tabContent{
+    padding: 20px 10px;
+    height: 300px;
+    overflow: auto;
+    background-color: white;
+}
