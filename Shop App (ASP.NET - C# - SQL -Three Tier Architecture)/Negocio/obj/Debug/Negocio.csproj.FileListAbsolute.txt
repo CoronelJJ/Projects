@@ -1,0 +1,11 @@
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Negocio\bin\Debug\Negocio.dll
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Negocio\bin\Debug\Dao.dll
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Negocio\bin\Debug\Entidades.dll
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Negocio\bin\Debug\Dao.pdb
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Negocio\obj\Debug\Negocio.dll
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Negocio\obj\Debug\Negocio.pdb

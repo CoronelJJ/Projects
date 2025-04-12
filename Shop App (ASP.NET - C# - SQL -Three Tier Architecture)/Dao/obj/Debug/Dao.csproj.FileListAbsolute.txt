@@ -1,0 +1,9 @@
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Dao\bin\Debug\Dao.dll
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Dao\bin\Debug\Dao.pdb
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Dao\bin\Debug\Entidades.dll
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Dao\bin\Debug\Entidades.pdb
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Dao\obj\Debug\Dao.dll
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Dao\obj\Debug\Dao.pdb

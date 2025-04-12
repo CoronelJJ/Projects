@@ -1,0 +1,203 @@
+﻿
+/*Generales*/
+
+body {
+    background-color: lightblue;
+}
+
+.mainItem {
+    background-color: crimson;
+    color: floralwhite;
+}
+
+.subItem {
+    background-color: floralwhite;
+    color: crimson;
+    font-family: Consolas,sans-serif;
+}
+
+/**/
+.myButton {
+    box-shadow: inset 0px 1px 0px 0px #97c4fe;
+    background: linear-gradient(to bottom, #3d94f6 5%, #1e62d0 100%);
+    background-color: #3d94f6;
+    border-radius: 6px;
+    border: 1px solid #337fed;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family:Consolas;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #1570cd;
+}
+
+    .myButton:hover {
+        background: linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
+        background-color: #1e62d0;
+    }
+
+    .myButton:active {
+        position: relative;
+        top: 1px;
+    }
+
+/**/
+.fontStyle {
+    font-family: Consolas,sans-serif;
+}
+
+.buttonHover:hover{
+    background-color:darkgray;
+    color:lightgray;
+}
+/*Inicio*/
+#lblTitulo{
+    color:forestgreen;
+    font-family: Consolas,sans-serif;
+}
+#lblBienvenido{
+    font-size:xx-large;
+    color:blueviolet
+}
+
+/*Login*/
+#FondoLocal{
+    background-image: url("Imagenes/Local.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#tablalogin {
+    table-layout:fixed;
+    margin-top:auto;
+    
+    
+}
+#lblGrupo6 {
+    background-color:floralwhite;
+    font-size: xx-large;
+    color: darkcyan;
+    font-family: Consolas,sans-serif;
+    animation: 3s linear infinite running rotacionColor;
+}
+#lblBienvenidoA {
+    background-color: floralwhite;
+    color: forestgreen;
+    font-family: Consolas,sans-serif;
+}
+
+#btnIngresar:hover{
+    background-color: darkgrey;
+}
+#lkbRegistrarse {
+    background-color: floralwhite;
+}
+
+@keyframes rotacionColor {
+    20%{color:aqua;}
+    40% {
+        color:aqua;
+    }
+    60% {
+        color:cornflowerblue;
+    }
+    80% {
+        color:darkcyan;
+    }
+    100% {
+        color:darkslategray;
+    }
+}
+
+.ocultar{
+    display:none;
+}
+
+
+/*Calendario*/
+.myCalendar {
+    background-color: #f2f2f2;
+    width: 156px;
+    border: 10px solid #4CCAEF !important;
+    border-top: 0px !important;
+}
+
+    .myCalendar a {
+        text-decoration: none;
+    }
+
+    .myCalendar .myCalendarTitle {
+        font-weight: bold;
+        height: 40px;
+        line-height: 40px;
+        background-color: #4CCAEF;
+        color: #ffffff;
+    }
+
+    .myCalendar th.myCalendarDayHeader {
+        height: 25px;
+        border-bottom: outset 2px #fbfbfb;
+        border-right: outset 2px #fbfbfb;
+    }
+
+    .myCalendar td.myCalendarDay {
+        border: outset 2px #fbfbfb;
+    }
+
+        .myCalendar td.myCalendarDay:nth-child(7) a {
+            color: #c52e2e !important;
+        }
+
+    .myCalendar .myCalendarNextPrev {
+        text-align: center;
+    }
+
+        .myCalendar .myCalendarNextPrev a {
+            font-size: 1px;
+        }
+
+        .myCalendar .myCalendarNextPrev:nth-child(1) a {
+            color: #4CCAEF !important;
+            background: url("prevMonth.png") no-repeat center center;
+        }
+
+            .myCalendar .myCalendarNextPrev:nth-child(1) a:hover, .myCalendar .myCalendarNextPrev:nth-child(3) a:hover {
+                background-color: transparent;
+            }
+
+        .myCalendar .myCalendarNextPrev:nth-child(3) a {
+            color: #4CCAEF !important;
+            background: url("nextMonth.png") no-repeat center center;
+        }
+
+    .myCalendar td.myCalendarSelector a {
+        background-color: #25bae5;
+    }
+
+    .myCalendar .myCalendarDayHeader a,
+    .myCalendar .myCalendarDay a,
+    .myCalendar .myCalendarSelector a,
+    .myCalendar .myCalendarNextPrev a {
+        display: block;
+        line-height: 20px;
+    }
+
+    .myCalendar .myCalendarToday {
+        background-color: #f2f2f2;
+        -webkit-box-shadow: 0 0 7px 3px #e5e5e5;
+        box-shadow: 0 0 7px 3px #e5e5e5;
+    }
+
+        .myCalendar .myCalendarToday a {
+            color: #25bae5 !important;
+        }
+
+    .myCalendar .myCalendarDay a:hover,
+    .myCalendar .myCalendarSelector a:hover {
+        background-color: #25bae5;  
+

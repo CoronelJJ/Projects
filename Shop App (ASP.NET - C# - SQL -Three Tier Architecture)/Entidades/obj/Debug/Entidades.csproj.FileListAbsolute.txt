@@ -1,0 +1,5 @@
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Julian\Documents\Programacion\Programacion 3\TPs\tpi-prog3\Entidades\obj\Debug\Entidades.pdb
